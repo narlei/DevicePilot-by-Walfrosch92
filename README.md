@@ -1,5 +1,7 @@
 # Device Pilot – Ulanzi Deck Plugin
 
+[![Available on Ulanzi Community Store](https://raw.githubusercontent.com/narlei/ulanzicommunitystore/main/docs/badges/ulanzi-community-store.svg)](https://ulanzicommunitystore.narlei.com)
+
 One-tap system-wide control over **audio output**, **microphone**, and **virtual camera** for the Ulanzi Stream Controller (D200 and compatible) on Windows.
 
 ---
