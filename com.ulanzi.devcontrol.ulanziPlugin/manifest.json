@@ -3,7 +3,7 @@
   "Name": "Device Pilot",
   "Description": "System-wide control of camera, microphone, and audio output on Windows.",
   "Author": "Walfrosch92",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Icon": "assets/icons/icon_plugin.svg",
   "CategoryIcon": "assets/icons/icon_plugin.svg",
   "Category": "System Control",
